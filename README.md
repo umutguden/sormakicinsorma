@@ -4,7 +4,7 @@
 
 Bir soru soracaksan, sor. Kimseyi bekletme.
 
-[![License](https://img.shields.io/github/license/ichbinheimdall/sormakicinsorma)](LICENSE)
+[![License](https://img.shields.io/github/license/umutguden/sormakicinsorma)](LICENSE)
 
 </div>
 
@@ -15,7 +15,7 @@ Inspired by [dontasktoask.com](https://dontasktoask.com)
 
 ## Kullanım
 ```bash
-git clone https://github.com/ichbinheimdall/sormakicinsorma
+git clone https://github.com/umutguden/sormakicinsorma
 open index.html
 ```
 
